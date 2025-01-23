@@ -62,65 +62,57 @@ _2015 – 2019_
 
 ## **Certifications**
 
-- **IBM Product Manager Professional Certificate** – Coursera  
-  *Completed June 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
-
 - **Cloud Application Development Foundations Specialization (IBM)** – Coursera  
   *Completed May 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
-
-- **Cloud Application Development Foundations Specialization (IBM)** – Coursera  
-  *Completed September 2023*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
-
-- **Preparation for CompTIA A+ Certification Specialization (IBM)** – Coursera  
-  *Completed April 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
-
-- **Program Management: Execution, Stakeholders & Governance** – Coursera  
-  *Completed October 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
-
-- **Program Management: Framework, Strategy, and Planning** – Coursera  
-  *Completed October 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
-
-- **Program Manager Capstone** – Coursera  
-  *Completed October 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
-
-- **Monitoring and Observability for Development and DevOps** – Coursera  
-  *Completed July 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
-
-- **Hands-on Introduction to Linux Commands and Shell Scripting** – Coursera  
-  *Completed July 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
-
-- **DevOps Capstone Project** – Coursera  
-  *Completed July 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
-
-- **Application Security for Developers and DevOps Professionals** – Coursera  
-  *Completed July 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
-
-- **Continuous Integration and Continuous Delivery (CI/CD)** – Coursera  
-  *Completed July 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
-
-- **Introduction to Test and Behavior Driven Development** – Coursera  
-  *Completed July 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
-
-- **Introduction to Agile Development and Scrum** – Coursera  
-  *Completed June 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+  [View Certificate](https://coursera.org/share/5ba5df11ec9e9f23bb926f5802b95e5e)
 
 - **Vector Search with NoSQL Databases using MongoDB & Cassandra** – Coursera  
   *Completed June 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+  [View Certificate](https://coursera.org/share/2ed579b055aa12ec05450dea59c3ec96)
+
+- **Hands-on Introduction to Linux Commands and Shell Scripting** – Coursera  
+  *Completed July 2024*  
+  [View Certificate](https://coursera.org/share/c3f0fea6c8b5fc78ae2e8049377251ac)
+
+- **DevOps Capstone Project** – Coursera  
+  *Completed July 2024*  
+  [View Certificate](https://coursera.org/share/d00dfaeb05a54df6737fa3864a9196d4)
+
+- **Monitoring and Observability for Development and DevOps** – Coursera  
+  *Completed July 2024*  
+  [View Certificate](https://coursera.org/share/370a39e341cf6d8776512170fde22a27)
+
+- **Application Security for Developers and DevOps Professionals** – Coursera  
+  *Completed July 2024*  
+  [View Certificate](https://coursera.org/share/ca2a715ac2ddc43cfac9f5485f69b841)
+
+- **Continuous Integration and Continuous Delivery (CI/CD)** – Coursera  
+  *Completed July 2024*  
+  [View Certificate](https://coursera.org/share/d88bd0b17b022fa496b34c532c38fbd2)
+
+- **Introduction to Test and Behavior Driven Development** – Coursera  
+  *Completed July 2024*  
+  [View Certificate](https://coursera.org/share/2e7f03daa4e4b14a31487e1386f72b9a)
+
+- **Introduction to Agile Development and Scrum** – Coursera  
+  *Completed June 2024*  
+  [View Certificate](https://coursera.org/share/bd2e1d4a1ec2a252c1b8877399757b75)
+
+- **Flutter and Dart: Developing iOS, Android, and Mobile Apps** – Coursera  
+  *Completed November 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)
+
+- **React Native: Developing Android and iOS Apps** – Coursera  
+  *Completed October 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)
+
+- **Mobile App Notifications, Databases, & Publishing** – Coursera  
+  *Completed January 2025*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)
+
+- **Mobile App Development Capstone Project** – Coursera  
+  *Completed January 2025*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)
 
 ---
 
