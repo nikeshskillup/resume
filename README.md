@@ -1,5 +1,4 @@
-
-# **Rao Nikesh NK (Nikesh Kumar)**  
+# **Nikesh Kumar**  
 Shahjahanpur, Alwar, Rajasthan, India  
 **Email:** [raonikeshnk@gmail.com](mailto:raonikeshnk@gmail.com)  
 **Phone:** +91 9950563120  
@@ -61,10 +60,67 @@ _2015 – 2019_
 
 ---
 
-## **Certifications**  
-- **Fundamentals of Digital Marketing** – Google Digital Garage  
-- **Business Analytics with Excel** – Simplilearn  
-- **Web Design Module** – BitDegree  
+## **Certifications**
+
+- **IBM Product Manager Professional Certificate** – Coursera  
+  *Completed June 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+
+- **Cloud Application Development Foundations Specialization (IBM)** – Coursera  
+  *Completed May 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+
+- **Cloud Application Development Foundations Specialization (IBM)** – Coursera  
+  *Completed September 2023*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+
+- **Preparation for CompTIA A+ Certification Specialization (IBM)** – Coursera  
+  *Completed April 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+
+- **Program Management: Execution, Stakeholders & Governance** – Coursera  
+  *Completed October 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+
+- **Program Management: Framework, Strategy, and Planning** – Coursera  
+  *Completed October 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+
+- **Program Manager Capstone** – Coursera  
+  *Completed October 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+
+- **Monitoring and Observability for Development and DevOps** – Coursera  
+  *Completed July 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+
+- **Hands-on Introduction to Linux Commands and Shell Scripting** – Coursera  
+  *Completed July 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+
+- **DevOps Capstone Project** – Coursera  
+  *Completed July 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+
+- **Application Security for Developers and DevOps Professionals** – Coursera  
+  *Completed July 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+
+- **Continuous Integration and Continuous Delivery (CI/CD)** – Coursera  
+  *Completed July 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+
+- **Introduction to Test and Behavior Driven Development** – Coursera  
+  *Completed July 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+
+- **Introduction to Agile Development and Scrum** – Coursera  
+  *Completed June 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
+
+- **Vector Search with NoSQL Databases using MongoDB & Cassandra** – Coursera  
+  *Completed June 2024*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)  
 
 ---
 
