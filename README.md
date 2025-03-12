@@ -1,134 +1,154 @@
-# **Nikesh Kumar**  
-Shahjahanpur, Alwar, Rajasthan, India  
-**Email:** [raonikeshnk@gmail.com](mailto:raonikeshnk@gmail.com)  
-**Phone:** +91 9950563120  
-**LinkedIn:** [linkedin.com/in/raonikeshnk](https://www.linkedin.com/in/raonikeshnk/)  
-**Portfolio:** [raonikeshnk.in](https://raonikeshnk.in)  
+# **Rao Nikesh NK**
+
+*Full Stack Web Developer & Technical Specialist*\
+Alwar, Rajasthan, India\
+Phone: +91 9950563120\
+Email: [raonky222@gmail.com](mailto\:raonky222@gmail.com)\
+LinkedIn: [linkedin.com/in/raonikeshnk](https://in.linkedin.com/in/raonikeshnk)\
+Portfolio: [raonikeshnk.in](https://raonikeshnk.in/)
 
 ---
 
-## **Professional Summary**  
-Dedicated Full Stack Web Developer and Trainer with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) and proficiency in cloud computing and Docker. Proven experience in creating, delivering, and maintaining high-quality course materials and web applications. Passionate about empowering others through education and developing scalable, user-centric solutions.
+## **Professional Summary**
+
+Passionate and skilled Full Stack Web Developer with over 3 years of experience specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). Proficient in HTML, CSS, JavaScript, and experienced in guiding individuals and groups in web development technologies. Adept at designing user-friendly interfaces, enhancing user experiences, and optimizing applications for performance and SEO. Committed to empowering students and professionals through comprehensive training and mentorship.
 
 ---
 
-## **Skills**
+## **Education**
 
-### **Technical Skills**  
-- **Front-End:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, jQuery  
-- **Back-End:** Node.js, Express, MongoDB, Django, Python  
-- **Tools & Platforms:** Docker, Git/GitHub, VS Code  
-- **Others:** RESTful APIs, SEO Optimization, UI/UX Design  
-
-### **Soft Skills**  
-- Effective Communication  
-- Problem-Solving and Critical Thinking  
-- Team Collaboration and Time Management  
+**Bachelor of Technology (B.Tech) in Computer Science & Engineering**\
+Raffles University, Neemrana, Rajasthan\
+August 2015 – June 2019\
+CGPA: 6.98
 
 ---
 
 ## **Professional Experience**
 
-### **Technical Specialist**  
-**Skillup Technology Pvt. Ltd., Delhi (Remote)**  
-_August 2023 – Present_  
-- Provided comprehensive support to learners, addressing technical queries and offering detailed explanations.  
-- Conducted beta testing for new course launches, identifying and resolving issues to enhance course quality.  
-- Developed hands-on labs and instructional materials for new courses, promoting interactive learning.  
-- Delivered constructive feedback to improve instructional materials and align content with learner needs.  
+**Technical Specialist**\
+*SkillUp Online*\
+August 2023 – Present
 
-### **Intern - Developer**  
-**GIP Technologies Pvt. Ltd., Jaipur**  
-_February 2023 – August 2023_  
-- Designed and implemented responsive web applications using modern front-end technologies.  
-- Assisted in maintaining and upgrading legacy codebases to improve performance and usability.  
+- Developed and updated course content to ensure quality and relevance.
+- Provided mentorship and guidance to students, enhancing their learning experiences.
+- Collaborated with cross-functional teams to design and implement technical solutions.
+- Contributed to the continuous improvement of training materials and methodologies.
 
-### **Assistant Faculty**  
-**EB Edutech Pvt. Ltd., Alwar**  
-_September 2021 – February 2023_  
-- Delivered offline training sessions on web development, including HTML, CSS, JavaScript, and React.  
-- Supported over 100 students in mastering technical concepts and building portfolio projects.  
-- Organized professional development workshops, fostering an environment of continuous learning.  
+**Web Development Trainer**\
+*Indian Coding Academy, Alwar, Rajasthan*\
+September 2021 – February 2023
+
+Delivered comprehensive training in web development technologies, including HTML, CSS, Bootstrap, JavaScript, Node.js, Express, Mongoose, and React.
+
+- Guided students from foundational concepts to project-level proficiency.
+- Developed and facilitated professional development workshops for faculty and staff.
+- Established positive relationships with students and faculty, resulting in improved classroom morale.
+
+**Full Stack Developer (Intern)**\
+*GIP Technologies Pvt. Ltd., Jaipur, Rajasthan*\
+February 2023 – August 2024
+
+- Developed and maintained web applications using the MERN stack.
+- Collaborated with design and product teams to implement user-centric features.
+- Participated in code reviews and contributed to best practices in development.
 
 ---
 
-## **Education**  
+## **Technical Skills**
 
-**Bachelor of Technology in Computer Science**  
-**Raffles University, Neemrana**  
-_2015 – 2019_  
+- **Front-End Development:** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap, jQuery
+- **Back-End Development:** Node.js, Express.js, MongoDB, Mongoose, Django, Python
+- **DevOps & Cloud Computing:** Docker, Kubernetes, OpenShift, AWS, IBM Cloud
+- **Version Control:** Git, GitHub
+- **Mobile Development:** React Native, Flutter & Dart
 
 ---
 
 ## **Certifications**
 
-- **Cloud Application Development Foundations Specialization (IBM)** – Coursera  
-  *Completed May 2024*  
-  [View Certificate](https://coursera.org/share/5ba5df11ec9e9f23bb926f5802b95e5e)
+- **IBM Full Stack Software Developer Professional Certificate**
 
-- **Vector Search with NoSQL Databases using MongoDB & Cassandra** – Coursera  
-  *Completed June 2024*  
-  [View Certificate](https://coursera.org/share/2ed579b055aa12ec05450dea59c3ec96)
+  - Developing Front-End Apps with React (V1 & V2)
+  - Django Application Development with SQL and Databases
+  - Introduction to Containers, Kubernetes, and OpenShift
 
-- **Hands-on Introduction to Linux Commands and Shell Scripting** – Coursera  
-  *Completed July 2024*  
-  [View Certificate](https://coursera.org/share/c3f0fea6c8b5fc78ae2e8049377251ac)
+- **IBM DevOps & Software Engineering Professional Certificate**
 
-- **DevOps Capstone Project** – Coursera  
-  *Completed July 2024*  
-  [View Certificate](https://coursera.org/share/d00dfaeb05a54df6737fa3864a9196d4)
+  - Application Security for Developers & DevOps Professionals
+  - Monitoring & Observability for Development and DevOps
 
-- **Monitoring and Observability for Development and DevOps** – Coursera  
-  *Completed July 2024*  
-  [View Certificate](https://coursera.org/share/370a39e341cf6d8776512170fde22a27)
+- **IBM Java Development Professional Certificate**
 
-- **Application Security for Developers and DevOps Professionals** – Coursera  
-  *Completed July 2024*  
-  [View Certificate](https://coursera.org/share/ca2a715ac2ddc43cfac9f5485f69b841)
+  - Object-Oriented Programming in Java
 
-- **Continuous Integration and Continuous Delivery (CI/CD)** – Coursera  
-  *Completed July 2024*  
-  [View Certificate](https://coursera.org/share/d88bd0b17b022fa496b34c532c38fbd2)
+- **IBM Full-Stack JavaScript Developer Professional Certificate**
 
-- **Introduction to Test and Behavior Driven Development** – Coursera  
-  *Completed July 2024*  
-  [View Certificate](https://coursera.org/share/2e7f03daa4e4b14a31487e1386f72b9a)
+  - Node.js & MongoDB: Developing Back-End Database Applications
+  - JavaScript Full-Stack Capstone Project
 
-- **Introduction to Agile Development and Scrum** – Coursera  
-  *Completed June 2024*  
-  [View Certificate](https://coursera.org/share/bd2e1d4a1ec2a252c1b8877399757b75)
+- **IBM iOS & Android Mobile App Developer Professional Certificate**
 
-- **Flutter and Dart: Developing iOS, Android, and Mobile Apps** – Coursera  
-  *Completed November 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)
-
-- **React Native: Developing Android and iOS Apps** – Coursera  
-  *Completed October 2024*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)
-
-- **Mobile App Notifications, Databases, & Publishing** – Coursera  
-  *Completed January 2025*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)
-
-- **Mobile App Development Capstone Project** – Coursera  
-  *Completed January 2025*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/XXXXXX)
+  - Get Started with Android App Development
+  - Get Started with iOS App Development
+  - React Native: Developing Android and iOS Apps
+  - Flutter and Dart: Developing iOS, Android, and Mobile Apps
 
 ---
 
-## **Key Projects**  
+## **Projects**
 
-### **Portfolio Websites**  
-- **Tiwar Foundation** – [tiwarfoundation.org](https://tiwarfoundation.org)  
-- **Mash Appliances** – [mashappliances.in](https://mashappliances.in)  
-- **Sunil Ydv SS** – [sunilydvss.com](https://sunilydvss.com)  
+- **Personal Portfolio Website**\
+  Developed a responsive personal portfolio to showcase projects and skills using React.js and Bootstrap.
 
-### **E-Commerce Application**  
-- Built a scalable e-commerce platform with a responsive design, integrating user authentication, shopping cart functionality, and order management using the MERN stack.  
+- **E-commerce Platform**\
+  Built a full-featured e-commerce platform with user authentication, product listings, and shopping cart functionality using the MERN stack.
+
+- **Blog Application**\
+  Created a dynamic blog application with content management capabilities using Django and PostgreSQL.
 
 ---
 
-## **Awards & Achievements**  
-- Successfully trained and mentored 100+ students to project-level proficiency in web development.  
-- Recognized for developing SEO-optimized websites for local businesses, boosting their online presence.  
+## **Personal Skills**
 
+- **Time Management:** 90%
+- **Efficiency:** 75%
+- **Integrity:** 80%
+- **Problem-Solving:** Excellent
+- **Creative Thinking:** Strong
+- **Stress Management:** Good
+- **Quick Learner:** Highly adaptable
+
+---
+
+## **Languages**
+
+- **English:** Professional Proficiency
+- **Hindi:** Native Proficiency
+
+---
+
+## **Interests & Hobbies**
+
+- **Public Speaking & Training:** Passionate about sharing knowledge and mentoring aspiring developers.
+- **Writing & Blogging:** Regularly writes about technology trends, tutorials, and industry insights.
+- **Competitive Coding:** Enjoys problem-solving challenges and hackathons.
+- **Community Engagement:** Active in developer communities, meetups, and online forums.
+
+---
+
+## **Ideal Next Steps & Learning Goals**
+
+To enhance expertise and career prospects, the following areas are being pursued:
+
+- **Advanced MERN Stack Mastery:** Deep dive into scalable architecture, performance optimization, and microservices with MERN.
+- **AI-Powered Web Development:** Implementing AI models into web applications using TensorFlow\.js and OpenAI APIs.
+- **Headless CMS & Progressive Web Apps (PWAs):** Building modern, fast, and scalable applications with Strapi, Contentful, and Next.js.
+- **Web3 & Blockchain Development:** Exploring smart contracts, Ethereum development, and decentralized applications (dApps).
+- **Public Speaking & Training Methodologies:** Enhancing presentation skills and training effectiveness for technical education.
+
+---
+
+## **References**
+
+Available upon request.
