@@ -6,7 +6,7 @@ Phone: +91 9950563120\
 Email: [raonky222@gmail.com](mailto\:raonky222@gmail.com)\
 LinkedIn: [linkedin.com/in/raonikeshnk](https://in.linkedin.com/in/raonikeshnk)\
 Portfolio: [raonikeshnk.in](https://raonikeshnk.in/)\
-Coursera: [coursera.org/learner/raonikeshnk] https://www.coursera.org/learner/raonikeshnk)\
+Coursera: [coursera.org/learner/raonikeshnk] https://www.coursera.org/learner/raonikeshnk)
 
 ---
 
